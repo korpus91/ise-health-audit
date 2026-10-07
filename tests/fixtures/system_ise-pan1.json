@@ -1,0 +1,1 @@
+{"response":[{"id":"a1","friendlyName":"Default self-signed server certificate","issuedTo":"ise-pan1.example.com","expirationDate":"Sat Nov 14 10:00:00 UTC 2026","usedBy":"Admin, EAP Authentication","selfSigned":true},{"id":"a2","friendlyName":"pxGrid cert","expirationDate":"Thu Mar 29 16:24:12 CST 2029","usedBy":"pxGrid","selfSigned":false}]}

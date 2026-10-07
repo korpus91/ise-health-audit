@@ -1,0 +1,1 @@
+{"response":[{"hostname":"ise-pan1","fqdn":"ise-pan1.example.com","ipAddress":"192.0.2.10","roles":["PrimaryAdmin","PrimaryMonitoring"],"services":["Session","Profiler"],"nodeStatus":"Connected"},{"hostname":"ise-psn1","fqdn":"ise-psn1.example.com","ipAddress":"192.0.2.11","roles":[],"services":["Session"],"nodeStatus":"Disconnected"}],"version":"1.0.0"}
